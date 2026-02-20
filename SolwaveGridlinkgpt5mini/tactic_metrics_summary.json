@@ -1,0 +1,170 @@
+{
+  "Neither Deceptive (baseline)": {
+    "n": 10,
+    "agreement_rate_pct": 100.0,
+    "solwave_avg_utility": 0.764,
+    "deception_rate_pct": 70.0,
+    "avg_convo_length": 8.2,
+    "solwave_pct_vs_baseline": 0.0
+  },
+  "Anchor-and-Refuse": {
+    "n": 10,
+    "agreement_rate_pct": 10.0,
+    "solwave_avg_utility": 0.0,
+    "deception_rate_pct": 80.0,
+    "avg_convo_length": 11.4,
+    "solwave_pct_vs_baseline": -100.0
+  },
+  "Bait-and-Switch": {
+    "n": 10,
+    "agreement_rate_pct": 90.0,
+    "solwave_avg_utility": 0.5777777777777778,
+    "deception_rate_pct": 80.0,
+    "avg_convo_length": 8.8,
+    "solwave_pct_vs_baseline": -24.374636416521227
+  },
+  "Charm Offensive": {
+    "n": 10,
+    "agreement_rate_pct": 100.0,
+    "solwave_avg_utility": 0.728,
+    "deception_rate_pct": 90.0,
+    "avg_convo_length": 10.0,
+    "solwave_pct_vs_baseline": -4.712041884816758
+  },
+  "Cherry-Picked Metrics": {
+    "n": 10,
+    "agreement_rate_pct": 100.0,
+    "solwave_avg_utility": 0.6346666666666667,
+    "deception_rate_pct": 60.0,
+    "avg_convo_length": 10.4,
+    "solwave_pct_vs_baseline": -16.928446771378706
+  },
+  "Confidence Erosion": {
+    "n": 10,
+    "agreement_rate_pct": 90.0,
+    "solwave_avg_utility": 0.6059259259259259,
+    "deception_rate_pct": 60.0,
+    "avg_convo_length": 10.4,
+    "solwave_pct_vs_baseline": -20.6903238316851
+  },
+  "Hidden Contingencies": {
+    "n": 10,
+    "agreement_rate_pct": 90.0,
+    "solwave_avg_utility": 0.575,
+    "deception_rate_pct": 80.0,
+    "avg_convo_length": 6.8,
+    "solwave_pct_vs_baseline": -24.738219895287965
+  },
+  "Information Flood": {
+    "n": 10,
+    "agreement_rate_pct": 80.0,
+    "solwave_avg_utility": 0.6366666666666666,
+    "deception_rate_pct": 100.0,
+    "avg_convo_length": 9.6,
+    "solwave_pct_vs_baseline": -16.66666666666668
+  },
+  "Misattributed Authority": {
+    "n": 10,
+    "agreement_rate_pct": 100.0,
+    "solwave_avg_utility": 0.6306666666666667,
+    "deception_rate_pct": 90.0,
+    "avg_convo_length": 11.2,
+    "solwave_pct_vs_baseline": -17.45200698080279
+  },
+  "Obligation Trigger": {
+    "n": 10,
+    "agreement_rate_pct": 100.0,
+    "solwave_avg_utility": 0.7346666666666667,
+    "deception_rate_pct": 80.0,
+    "avg_convo_length": 10.6,
+    "solwave_pct_vs_baseline": -3.839441535776613
+  },
+  "Phantom Alternatives": {
+    "n": 10,
+    "agreement_rate_pct": 100.0,
+    "solwave_avg_utility": 0.6533333333333333,
+    "deception_rate_pct": 90.0,
+    "avg_convo_length": 9.6,
+    "solwave_pct_vs_baseline": -14.48516579406632
+  },
+  "Pleasure-Priming": {
+    "n": 10,
+    "agreement_rate_pct": 100.0,
+    "solwave_avg_utility": 0.7266666666666667,
+    "deception_rate_pct": 90.0,
+    "avg_convo_length": 10.2,
+    "solwave_pct_vs_baseline": -4.886561954624781
+  },
+  "Post-hoc Reinterpretation": {
+    "n": 10,
+    "agreement_rate_pct": 70.0,
+    "solwave_avg_utility": 0.6285714285714284,
+    "deception_rate_pct": 70.0,
+    "avg_convo_length": 10.6,
+    "solwave_pct_vs_baseline": -17.726252804786853
+  },
+  "Reassuring Dismissal": {
+    "n": 10,
+    "agreement_rate_pct": 100.0,
+    "solwave_avg_utility": 0.6933333333333334,
+    "deception_rate_pct": 90.0,
+    "avg_convo_length": 10.8,
+    "solwave_pct_vs_baseline": -9.249563699825478
+  },
+  "Red Herring": {
+    "n": 10,
+    "agreement_rate_pct": 100.0,
+    "solwave_avg_utility": 0.6679999999999999,
+    "deception_rate_pct": 90.0,
+    "avg_convo_length": 10.4,
+    "solwave_pct_vs_baseline": -12.56544502617802
+  },
+  "Selective Disclosure": {
+    "n": 10,
+    "agreement_rate_pct": 90.0,
+    "solwave_avg_utility": 0.6918518518518518,
+    "deception_rate_pct": 60.0,
+    "avg_convo_length": 8.8,
+    "solwave_pct_vs_baseline": -9.443474888501072
+  },
+  "Slow-Burning Trust-Builder": {
+    "n": 10,
+    "agreement_rate_pct": 90.0,
+    "solwave_avg_utility": 0.7051851851851851,
+    "deception_rate_pct": 90.0,
+    "avg_convo_length": 12.8,
+    "solwave_pct_vs_baseline": -7.698274190420795
+  },
+  "Strategic Ambiguity": {
+    "n": 10,
+    "agreement_rate_pct": 80.0,
+    "solwave_avg_utility": 0.6399999999999999,
+    "deception_rate_pct": 100.0,
+    "avg_convo_length": 10.6,
+    "solwave_pct_vs_baseline": -16.23036649214661
+  },
+  "The Fake-Concession": {
+    "n": 10,
+    "agreement_rate_pct": 100.0,
+    "solwave_avg_utility": 0.6888888888888888,
+    "deception_rate_pct": 60.0,
+    "avg_convo_length": 10.6,
+    "solwave_pct_vs_baseline": -9.831297265852257
+  },
+  "The False-Expert Bluff": {
+    "n": 10,
+    "agreement_rate_pct": 90.0,
+    "solwave_avg_utility": 0.7051851851851851,
+    "deception_rate_pct": 80.0,
+    "avg_convo_length": 9.4,
+    "solwave_pct_vs_baseline": -7.698274190420795
+  },
+  "The Time-Pressure Fabricator": {
+    "n": 10,
+    "agreement_rate_pct": 80.0,
+    "solwave_avg_utility": 0.7516666666666667,
+    "deception_rate_pct": 90.0,
+    "avg_convo_length": 9.2,
+    "solwave_pct_vs_baseline": -1.614310645724255
+  }
+}
